@@ -12,7 +12,7 @@
 # Inspired by https://bugs.launchpad.net/ubuntu/+source/libvirt/+bug/350936.
 
 # Configure timeout (in seconds).
-TIMEOUT=300
+TIMEOUT=3000
 VIRSH=/usr/bin/virsh
 
 # List running domains.
